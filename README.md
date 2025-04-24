@@ -1,4 +1,4 @@
-# 🌐 Networking
+# 🌐 Networking Activities & Programs
 A repo containing various networking activities and programs. 
 
 ## ✍️ Endnote
