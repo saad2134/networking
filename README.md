@@ -1,6 +1,8 @@
 # 🌐 Networking Activities & Programs
 A repo containing various networking activities and programs. 
 
+---
+
 ## ✍️ Endnote
-Thank you for reading!
-Support me on https://buymeacoffee.com/saad1inc
+
+<p align="center">⭐ Star this repo if you found it helpful! Thanks for reading.</p>
